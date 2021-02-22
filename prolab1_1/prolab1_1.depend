@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1605256355 source:c:\users\user\desktop\prolab1_1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<graphics.h>
+
