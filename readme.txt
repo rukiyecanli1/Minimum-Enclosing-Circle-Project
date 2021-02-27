@@ -8,5 +8,3 @@ Noktalar arasına virgül koymadan yazmanız gerekmektedir.
 5 -6  
 4 2 
 3 0
-
-Proje C diliyle kodlanmış ancak grafik kütüphanesini sorunsuz çalıştırabilmek için .cpp dosya uzantısıyla açılmıştır.
